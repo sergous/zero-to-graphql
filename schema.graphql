@@ -1,0 +1,20 @@
+# This file was generated based on ".graphqlconfig". Do not edit manually.
+
+schema {
+    query: Query
+}
+
+"..."
+type Person {
+    email: String
+    firstName: String
+    friends: [Person]
+    id: String
+    lastName: String
+    username: String
+}
+
+"..."
+type Query {
+    person(id: ID!): Person
+}

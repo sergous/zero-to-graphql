@@ -1,0 +1,28 @@
+{
+  "people": [
+    {
+      "id": "1",
+      "first_name": "Steven",
+      "last_name": "Luscher",
+      "email": "stevelucher@host.com",
+      "username": "stevenluscher",
+      "friends": ["/people/2", "/people/3"]
+    },
+    {
+      "id": "2",
+      "first_name": "Mike",
+      "last_name": "Torano",
+      "email": "miketorano@host.com",
+      "username": "miketorano",
+      "friends": ["/people/1", "/people/3"]
+    },
+    {
+      "id": "3",
+      "first_name": "Kolins",
+      "last_name": "Hoster",
+      "email": "kolinshoster@host.com",
+      "username": "kilinshoster",
+      "friends": ["/people/3"]
+    }
+  ]
+}
