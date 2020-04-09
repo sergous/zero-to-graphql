@@ -1,24 +1,25 @@
-#Zero to GraphQL
+# Zero to GraphQL
 
-##Install
+## Install
 
 ```
 yarn install
 ```
 
-##Run
+## Run
 
 ```
 yarn start:api
 yarn start
 ```
 
-##Urls
+## Urls
 API: http://localhost:8000/people
+
 GraphQL http://localhost:3000/graphql
 
-##Credits:
+## Credits:
 
 [![Zero to GraphQL in 30 Minutes – video](https://i.ytimg.com/vi/UBGzsb2UkeY/0.jpg)](https://youtu.be/UBGzsb2UkeY)
 
-GitHub Repo [zero-to-graphql](https://github.com/steveluscher/zero-to-graphql)
+Original GitHub Repo [zero-to-graphql](https://github.com/steveluscher/zero-to-graphql)
